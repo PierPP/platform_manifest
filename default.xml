@@ -345,7 +345,7 @@
   <project name="PierPP/android_device_samsung_i9100" path="device/samsung/i9100" remote="gh" revision="jellybean" />
   <project name="PierPP/android_device_samsung_n7000" path="device/samsung/n7000" remote="gh" revision="jellybean" />
   <project name="PierPP/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="gh" revision="jellybean" />
-  <project name="teamhacksung/android_kernel_samsung_smdk4210_new" path="kernel/samsung/smdk4210" remote="gh" revision="jellybean" />
+  <project name="teamhacksung/android_kernel_samsung_smdk4210" path="kernel/samsung/smdk4210" remote="gh" revision="jellybean" /> 
   <project name="android_hardware_samsung" path="hardware/samsung" remote="cm" revision="jellybean" />
   <project name="android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="cm" revision="jellybean" />
 
